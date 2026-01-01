@@ -7,8 +7,16 @@ namespace CourierService.App
     {
         static void Main(string[] args)
         {
+            // Read the first line of input from console.
+            // Example input: "100 3" basedelivery and no. of packegaes.
             string[] firstLine = Console.ReadLine().Split(' ');
+
+            // firstLine[0] = base delivery cost (100)
+            // Convert string to double
             double baseCost = double.Parse(firstLine[0]);
+
+            // firstLine[1] = total number of packages (3)
+            // Convert string to integer
             int packageCount = int.Parse(firstLine[1]);
 
             DeliveryCostCalculator costCalculator = new DeliveryCostCalculator();
