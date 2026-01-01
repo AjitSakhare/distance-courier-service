@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\bin\Debug\net8.0\CourierService.App.exe
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\bin\Debug\net8.0\CourierService.App.deps.json
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\bin\Debug\net8.0\CourierService.App.runtimeconfig.json
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\bin\Debug\net8.0\CourierService.App.dll
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\bin\Debug\net8.0\CourierService.App.pdb
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.AssemblyInfo.cs
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.sourcelink.json
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.dll
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\refint\CourierService.App.dll
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.pdb
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\CourierService.App.genruntimeconfig.cache
+C:\Users\Admin\source\repos\distance-courier-service\CourierService.App\obj\Debug\net8.0\ref\CourierService.App.dll
