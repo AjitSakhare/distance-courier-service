@@ -3,10 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\services\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752339BB-03E2-4689-AEF4-F9035D2914DE}|..\\CourierService.Tests\\CourierService.Tests.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.tests\\offers\\offerofr002tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752339BB-03E2-4689-AEF4-F9035D2914DE}|..\\CourierService.Tests\\CourierService.Tests.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.tests\\offers\\offerofr003tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{752339BB-03E2-4689-AEF4-F9035D2914DE}|..\\CourierService.Tests\\CourierService.Tests.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.tests\\offers\\offerofr001tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\services\\deliverycostcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\services\\offerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\offers\\offerofr003.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,12 +34,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\models\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{752339BB-03E2-4689-AEF4-F9035D2914DE}|..\\CourierService.Tests\\CourierService.Tests.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FF685B2C-861B-43CD-B593-DA3D23E83C67}|..\\CourierService.App\\CourierService.App.csproj|c:\\users\\admin\\source\\repos\\distance-courier-service\\courierservice.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,50 +43,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OfferService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Services\\OfferService.cs",
-              "RelativeDocumentMoniker": "..\\CourierService.App\\Services\\OfferService.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Services\\OfferService.cs",
-              "RelativeToolTip": "..\\CourierService.App\\Services\\OfferService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "OfferOFR003Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Offers\\OfferOFR003Tests.cs",
+              "RelativeDocumentMoniker": "..\\CourierService.Tests\\Offers\\OfferOFR003Tests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Offers\\OfferOFR003Tests.cs",
+              "RelativeToolTip": "..\\CourierService.Tests\\Offers\\OfferOFR003Tests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:52:37.993Z",
+              "WhenOpened": "2026-01-01T13:01:41.184Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "OfferOFR002Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Offers\\OfferOFR002Tests.cs",
+              "RelativeDocumentMoniker": "..\\CourierService.Tests\\Offers\\OfferOFR002Tests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Offers\\OfferOFR002Tests.cs",
+              "RelativeToolTip": "..\\CourierService.Tests\\Offers\\OfferOFR002Tests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T13:00:47.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OfferOFR001Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Offers\\OfferOFR001Tests.cs",
+              "RelativeDocumentMoniker": "..\\CourierService.Tests\\Offers\\OfferOFR001Tests.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Offers\\OfferOFR001Tests.cs",
+              "RelativeToolTip": "..\\CourierService.Tests\\Offers\\OfferOFR001Tests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:58:51.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "DeliveryCostCalculator.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Services\\DeliveryCostCalculator.cs",
               "RelativeDocumentMoniker": "..\\CourierService.App\\Services\\DeliveryCostCalculator.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Services\\DeliveryCostCalculator.cs",
               "RelativeToolTip": "..\\CourierService.App\\Services\\DeliveryCostCalculator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T12:50:36.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OfferOFR003.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\OfferOFR003.cs",
-              "RelativeDocumentMoniker": "..\\CourierService.App\\Offers\\OfferOFR003.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\OfferOFR003.cs",
-              "RelativeToolTip": "..\\CourierService.App\\Offers\\OfferOFR003.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:46:47.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "OfferOFR002.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\OfferOFR002.cs",
               "RelativeDocumentMoniker": "..\\CourierService.App\\Offers\\OfferOFR002.cs",
@@ -93,7 +112,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
+              "Title": "OfferOFR003.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\OfferOFR003.cs",
+              "RelativeDocumentMoniker": "..\\CourierService.App\\Offers\\OfferOFR003.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\OfferOFR003.cs",
+              "RelativeToolTip": "..\\CourierService.App\\Offers\\OfferOFR003.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:46:47.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CourierService.App\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Program.cs",
+              "RelativeToolTip": "..\\CourierService.App\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:14:36.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfferService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Services\\OfferService.cs",
+              "RelativeDocumentMoniker": "..\\CourierService.App\\Services\\OfferService.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Services\\OfferService.cs",
+              "RelativeToolTip": "..\\CourierService.App\\Services\\OfferService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:52:37.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "OfferOFR001.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\OfferOFR001.cs",
               "RelativeDocumentMoniker": "..\\CourierService.App\\Offers\\OfferOFR001.cs",
@@ -106,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "IOffers.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Offers\\IOffers.cs",
               "RelativeDocumentMoniker": "..\\CourierService.App\\Offers\\IOffers.cs",
@@ -119,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Package.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Models\\Package.cs",
               "RelativeDocumentMoniker": "..\\CourierService.App\\Models\\Package.cs",
@@ -129,31 +187,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T12:29:17.369Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CourierService.Tests\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.Tests\\Program.cs",
-              "RelativeToolTip": "..\\CourierService.Tests\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:15:12.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CourierService.App\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\distance-courier-service\\CourierService.App\\Program.cs",
-              "RelativeToolTip": "..\\CourierService.App\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T12:14:36.551Z"
             }
           ]
         }
